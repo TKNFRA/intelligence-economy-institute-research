@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "Defining AI Agents: An Ontological and Topological Framework for Organizational Systems"
+abstract: >-
+  The scalability and governance challenges of AI agents trace back to a
+  fundamental architectural deficit: the absence of an explicit, semantically
+  expressive, and structurally adaptive abstraction layer. This paper introduces
+  an architectural framework utilizing explicit, machine-readable ontological and
+  topological representations for AI agents. Leveraging category theory,
+  mereotopology, and graph theory, it formally defines the framework and proves
+  five core properties: composability, interoperability, provenance preservation,
+  auditability, and formal verifiability.
+type: article
+authors:
+  - family-names: Teng
+    given-names: Jiulin
+    affiliation: Intelligence Economy Institute
+  - family-names: Boudi
+    given-names: Zakaryae
+    affiliation: Intelligence Economy Institute
+keywords:
+  - ontology
+  - topology
+  - AI agent
+  - multi-agent system
+year: 2026
+license: CC-BY-NC-ND-4.0
