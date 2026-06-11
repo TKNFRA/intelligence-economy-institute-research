@@ -48,6 +48,7 @@ own copy of the license.
 | Year | Title | Authors | Status |
 |------|-------|---------|--------|
 | 2026 | [Defining AI Agents: An Ontological and Topological Framework for Organizational Systems](papers/2026-defining-ai-agents/) | Jiulin Teng, Zakaryae Boudi | Preprint — pending journal submission |
+| 2026 | [Composing EVM Smart Contracts: A Seam Calculus](papers/2026-composing-evm-smart-contracts/) | Zakaryae Boudi | Working paper / preprint — pending journal submission |
 
 ## Adding a new paper
 

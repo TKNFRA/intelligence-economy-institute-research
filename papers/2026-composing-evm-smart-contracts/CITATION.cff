@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "Composing EVM Smart Contracts: A Seam Calculus"
+abstract: >-
+  Many high-impact failures in composed Ethereum Virtual Machine (EVM)
+  applications arise not inside a single contract but at the seam where one
+  component silently assumes behaviour that a neighbour does not guarantee. This
+  paper gives such boundaries a precise calculus, separating specification
+  conflict from seam non-conformance and instantiating a one-directional
+  soundness theorem in the rely-guarantee tradition. It makes the assume-guarantee
+  ledger a typed, finite graph that localises the residual verification and trust
+  burden, and applies the calculus to load-bearing EVM standards, six DeFi
+  platforms, and a fully worked yield-router case study.
+type: report
+authors:
+  - family-names: Boudi
+    given-names: Zakaryae
+    affiliation: Intelligence Economy Institute
+    email: research@tokenfrastructure.com
+keywords:
+  - seam calculus
+  - EVM
+  - smart contract composition
+  - assume-guarantee reasoning
+  - rely-guarantee
+  - formal verification
+  - DeFi
+  - ERC-4626
+  - audit assurance
+year: 2026
+month: 6
+license: CC-BY-NC-ND-4.0
